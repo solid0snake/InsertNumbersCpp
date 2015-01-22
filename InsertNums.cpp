@@ -65,5 +65,7 @@ int main() {
 			file << rest[i] << endl;
 		}// end for
 	}// end if/else
+	
+	cout << "Done!\nCheck your file." << endl;
 	return 0;
 }// end main()
